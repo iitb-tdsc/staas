@@ -11,6 +11,9 @@ app_color = "#8855aa"
 app_email = "office.ctara@iitb.ac.in"
 app_license = "GPL v3"
 
+treeviews = ['Region']
+
+
 # Includes in <head>
 # ------------------
 

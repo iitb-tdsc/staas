@@ -4,8 +4,7 @@
 
 from __future__ import unicode_literals
 import frappe
-from frappe.utils.nestedset import NestedSet
+from frappe.model.document import Document
 
-class Region(NestedSet):
-	nsm_parent_field = 'parent_region'
+class WellAssessment(Document):
 	pass

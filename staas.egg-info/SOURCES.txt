@@ -1,6 +1,5 @@
 MANIFEST.in
 README.md
-license.txt
 requirements.txt
 setup.py
 staas/__init__.py
@@ -17,5 +16,18 @@ staas/config/__init__.py
 staas/config/desktop.py
 staas/config/docs.py
 staas/staas/__init__.py
+staas/staas/doctype/__init__.py
+staas/staas/doctype/region/__init__.py
+staas/staas/doctype/region/region.js
+staas/staas/doctype/region/region.json
+staas/staas/doctype/region/region.py
+staas/staas/doctype/region/test_region.js
+staas/staas/doctype/region/test_region.py
+staas/staas/doctype/region_type/__init__.py
+staas/staas/doctype/region_type/region_type.js
+staas/staas/doctype/region_type/region_type.json
+staas/staas/doctype/region_type/region_type.py
+staas/staas/doctype/region_type/test_region_type.js
+staas/staas/doctype/region_type/test_region_type.py
 staas/templates/__init__.py
 staas/templates/pages/__init__.py
